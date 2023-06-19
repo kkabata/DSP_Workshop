@@ -1,64 +1,64 @@
-PRODUCTID,CATEGORYID,LINEID,PRODUCTNAME,PRODUCTDESCRIPTION,CATEGORYNAME,CATEGORYDESCRIPTION,LINENAME,LINEDESCRIPTION
-1,1,1,Pumpit Tennis Shoes,Pumpit Tennis Shoes,Tennis,Tennis,Sports,Sports
-2,1,1,Slamit Tennis Racket,Slamit Tennis Racket,Tennis,Tennis,Sports,Sports
-3,1,1,SuperBounce Tennis Balls,SuperBounce Tennis Balls,Tennis,Tennis,Sports,Sports
-4,1,1,Tennis cap,Tennis cap,Tennis,Tennis,Sports,Sports
-5,2,1,Berta Golf Clubs,Berta Golf Clubs,Golf,Golf,Sports,Sports
-6,2,1,Clone Golf Clubs,Clone Golf Clubs,Golf,Golf,Sports,Sports
-7,2,1,Tees,Tees,Golf,Golf,Sports,Sports
-8,2,1,Golf Balls,Golf Balls,Golf,Golf,Sports,Sports
-9,3,1,Tushuss Skis,Tushuss Skis,Ski,Ski,Sports,Sports
-10,3,1,No Name Skis,No Name Skis,Ski,Ski,Sports,Sports
-11,3,1,Ski Mask,Ski Mask,Ski,Ski,Sports,Sports
-12,3,1,Ski Boots,Ski Boots,Ski,Ski,Sports,Sports
-13,4,2,Pan-O Flat TVs,Pan-O Flat TVs,Home Theater,Home Theater,Electronics,Electronics
-14,4,2,Pan-O Flat TVs,Pan-O Flat TVs,Home Theater,Home Theater,Electronics,Electronics
-15,4,2,Pan-O Flat TVs,Pan-O Flat TVs,Home Theater,Home Theater,Electronics,Electronics
-16,4,2,Pan-O Flat TVs,Pan-O Flat TVs,Home Theater,Home Theater,Electronics,Electronics
-17,4,2,Sino CRT TVs,Sino CRT TVs,Home Theater,Home Theater,Electronics,Electronics
-18,4,2,Sino CRT TVs,Sino CRT TVs,Home Theater,Home Theater,Electronics,Electronics
-19,4,2,Sino CRT TVs,Sino CRT TVs,Home Theater,Home Theater,Electronics,Electronics
-20,4,2,Speaker System,Speaker System,Home Theater,Home Theater,Electronics,Electronics
-21,5,2,PC Systems,PC Systems,Computer,Computer,Electronics,Electronics
-22,5,2,Apple Systems,Apple Systems,Computer,Computer,Electronics,Electronics
-23,5,2,Accessories,Accessories,Computer,Computer,Electronics,Electronics
-24,6,2,Playstation,Playstation,Consoles,Consoles,Electronics,Electronics
-25,6,2,Gamecube,Gamecube,Consoles,Consoles,Electronics,Electronics
-26,6,2,XBOX,XBOX,Consoles,Consoles,Electronics,Electronics
-27,7,2,Fusion Fridge,Fusion Fridge,Appliances,Appliances,Electronics,Electronics
-28,7,2,Fusion Fridge,Fusion Fridge,Appliances,Appliances,Electronics,Electronics
-29,7,2,Fusion Fridge,Fusion Fridge,Appliances,Appliances,Electronics,Electronics
-30,7,2,Washing Machine,Washing Machine,Appliances,Appliances,Electronics,Electronics
-31,7,2,Washing Machine,Washing Machine,Appliances,Appliances,Electronics,Electronics
-32,7,2,Washing Machine,Washing Machine,Appliances,Appliances,Electronics,Electronics
-33,7,2,Dishwasher,Dishwasher,Appliances,Appliances,Electronics,Electronics
-34,7,2,DustZero Wine Fridge,DustZero Wine Fridge,Appliances,Appliances,Electronics,Electronics
-35,8,1,Descent Competition Bicycle,Descent Competition Bicycle,Bikes,Bikes,Sports,Sports
-36,8,1,Romeo Hybrid Bicycle,Romeo Hybrid Bicycle,Bikes,Bikes,Sports,Sports
-37,8,1,Rappel Mountain Bicycle,Rappel Mountain Bicycle,Bikes,Bikes,Sports,Sports
-38,8,1,Crochet Cycling Gloves,Crochet Cycling Gloves,Bikes,Bikes,Sports,Sports
-39,8,1,Triump Pro Cycling Helmet,Triump Pro Cycling Helmet,Bikes,Bikes,Sports,Sports
-40,9,3,Nokia 7380,Nokia 7380,Nokia Handsets,Nokia Handsets,Telecom,Telecom
-41,9,3,Nokia 7370,Nokia 7370,Nokia Handsets,Nokia Handsets,Telecom,Telecom
-53,12,3,UBR 10012,UBR 10012,Cisco Switches,Cisco Switches,Telecom,Telecom
-54,12,3,UBR 7100,UBR 7100,Cisco Switches,Cisco Switches,Telecom,Telecom
-55,12,3,7600 router,7600 router,Cisco Switches,Cisco Switches,Telecom,Telecom
-56,12,3,7200 router,7200 router,Cisco Switches,Cisco Switches,Telecom,Telecom
-57,13,3,Moto Rokr,Moto Rokr,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-58,13,3,A 630,A 630,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-59,13,3,A 840,A 840,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-60,13,3,C 155,C 155,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-61,13,3,V 188,V 188,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-62,13,3,MPX 220,MPX 220,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-63,13,3,Razrblack,Razrblack,Motorola Handsets,Motorola Handsets,Telecom,Telecom
-42,9,3,Nokia 7360,Nokia 7360,Nokia Handsets,Nokia Handsets,Telecom,Telecom
-43,9,3,Nokia 9300,Nokia 9300,Nokia Handsets,Nokia Handsets,Telecom,Telecom
-44,9,3,Nokia 6010,Nokia 6010,Nokia Handsets,Nokia Handsets,Telecom,Telecom
-45,10,3,Samsung X475,Samsung X475,Samsung Handsets,Samsung Handsets,Telecom,Telecom
-46,10,3,Samsung e335,Samsung e335,Samsung Handsets,Samsung Handsets,Telecom,Telecom
-47,10,3,Samsung 495,Samsung 495,Samsung Handsets,Samsung Handsets,Telecom,Telecom
-48,11,3,Summit 200-24,Summit 200-24,Extreme Switches ,Extreme Switches ,Telecom,Telecom
-49,11,3,Summit 200-48,Summit 200-48,Extreme Switches ,Extreme Switches ,Telecom,Telecom
-50,11,3,Black diamond 6800,Black diamond 6800,Extreme Switches ,Extreme Switches ,Telecom,Telecom
-51,11,3,Black diamond 8800,Black diamond 8800,Extreme Switches ,Extreme Switches ,Telecom,Telecom
-52,12,3,SCE 200,SCE 200,Cisco Switches,Cisco Switches,Telecom,Telecom
+PRODUCTID,CATEGORYID,LINEID,PRODUCTNAME,CATEGORYNAME,LINENAME
+1,1,1,Pumpit Tennis Shoes,Tennis,Sports
+2,1,1,Slamit Tennis Racket,Tennis,Sports
+3,1,1,SuperBounce Tennis Balls,Tennis,Sports
+4,1,1,Tennis cap,Tennis,Sports
+5,2,1,Berta Golf Clubs,Golf,Sports
+6,2,1,Clone Golf Clubs,Golf,Sports
+7,2,1,Tees,Golf,Sports
+8,2,1,Golf Balls,Golf,Sports
+9,3,1,Tushuss Skis,Ski,Sports
+10,3,1,No Name Skis,Ski,Sports
+11,3,1,Ski Mask,Ski,Sports
+12,3,1,Ski Boots,Ski,Sports
+13,4,2,Pan-O Flat TVs,Home Theater,Electronics
+14,4,2,Pan-O Flat TVs,Home Theater,Electronics
+15,4,2,Pan-O Flat TVs,Home Theater,Electronics
+16,4,2,Pan-O Flat TVs,Home Theater,Electronics
+17,4,2,Sino CRT TVs,Home Theater,Electronics
+18,4,2,Sino CRT TVs,Home Theater,Electronics
+19,4,2,Sino CRT TVs,Home Theater,Electronics
+20,4,2,Speaker System,Home Theater,Electronics
+21,5,2,PC Systems,Computer,Electronics
+22,5,2,Apple Systems,Computer,Electronics
+23,5,2,Accessories,Computer,Electronics
+24,6,2,Playstation,Consoles,Electronics
+25,6,2,Gamecube,Consoles,Electronics
+26,6,2,XBOX,Consoles,Electronics
+27,7,2,Fusion Fridge,Appliances,Electronics
+28,7,2,Fusion Fridge,Appliances,Electronics
+29,7,2,Fusion Fridge,Appliances,Electronics
+30,7,2,Washing Machine,Appliances,Electronics
+31,7,2,Washing Machine,Appliances,Electronics
+32,7,2,Washing Machine,Appliances,Electronics
+33,7,2,Dishwasher,Appliances,Electronics
+34,7,2,DustZero Wine Fridge,Appliances,Electronics
+35,8,1,Descent Competition Bicycle,Bikes,Sports
+36,8,1,Romeo Hybrid Bicycle,Bikes,Sports
+37,8,1,Rappel Mountain Bicycle,Bikes,Sports
+38,8,1,Crochet Cycling Gloves,Bikes,Sports
+39,8,1,Triump Pro Cycling Helmet,Bikes,Sports
+40,9,3,Nokia 7380,Nokia Handsets,Telecom
+41,9,3,Nokia 7370,Nokia Handsets,Telecom
+53,12,3,UBR 10012,Cisco Switches,Telecom
+54,12,3,UBR 7100,Cisco Switches,Telecom
+55,12,3,7600 router,Cisco Switches,Telecom
+56,12,3,7200 router,Cisco Switches,Telecom
+57,13,3,Moto Rokr,Motorola Handsets,Telecom
+58,13,3,A 630,Motorola Handsets,Telecom
+59,13,3,A 840,Motorola Handsets,Telecom
+60,13,3,C 155,Motorola Handsets,Telecom
+61,13,3,V 188,Motorola Handsets,Telecom
+62,13,3,MPX 220,Motorola Handsets,Telecom
+63,13,3,Razrblack,Motorola Handsets,Telecom
+42,9,3,Nokia 7360,Nokia Handsets,Telecom
+43,9,3,Nokia 9300,Nokia Handsets,Telecom
+44,9,3,Nokia 6010,Nokia Handsets,Telecom
+45,10,3,Samsung X475,Samsung Handsets,Telecom
+46,10,3,Samsung e335,Samsung Handsets,Telecom
+47,10,3,Samsung 495,Samsung Handsets,Telecom
+48,11,3,Summit 200-24,Extreme Switches ,Telecom
+49,11,3,Summit 200-48,Extreme Switches ,Telecom
+50,11,3,Black diamond 6800,Extreme Switches ,Telecom
+51,11,3,Black diamond 8800,Extreme Switches ,Telecom
+52,12,3,SCE 200,Cisco Switches,Telecom
