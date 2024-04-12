@@ -1,0 +1,11 @@
+REGIONID,REGIONNAME,LOGIN_USERID
+1,North America,USER01@abc.com
+2,Europe,USER01@abc.com
+3,Latin America,USER01@abc.com
+4,EEMEA,USER01@abc.com
+5,Asia PAC,USER01@abc.com
+1,North America,USER02@abc.com
+2,Europe,USER02@abc.com
+3,Latin America,USER03@abc.com
+4,EEMEA,USER04@abc.com
+5,Asia PAC,Your E-mail Address
